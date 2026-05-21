@@ -34,5 +34,10 @@ Power BI dashboard project analyzing 20+ years of global energy and commodity ma
 - Global fossil fuel dependency remained above 85%
 - Saudi Arabia remained the leading crude producer
 - Natural Gas showed stronger resilience during COVID-19 demand shocks
+
+## Data Sources
+- Kaggle — Global Energy & Commodity Market Datasets
+- Our World in Data — https://ourworldindata.org/
+- Coverage Period: 2000–2022
 - Commodity markets exhibited recurring boom-bust cycles
 - 2008 recorded the largest oil price spike in the dataset
